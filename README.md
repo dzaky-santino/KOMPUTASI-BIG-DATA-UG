@@ -54,7 +54,7 @@ Dari scatter plot yang dihasilkan, terlihat bahwa semakin tinggi nilai kolom **a
 
 # Lisensi MIT
 
-Hak Cipta (c) [2023] [Ahmad Dzaky Santino]
+Hak Cipta (c) [2023] [dzakysantino22]
 
 Dengan ini diberikan izin, secara gratis, kepada siapa pun yang mendapatkan salinan
 perangkat lunak ini dan file dokumentasi terkait ("Perangkat Lunak"), untuk bertransaksi
@@ -132,7 +132,7 @@ Translated with www.DeepL.com/Translator (free version)
 
 # MIT License
 
-Copyright (c) [2023] [Ahmad Dzaky Santino]
+Copyright (c) [2023] [dzakysantino22]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
